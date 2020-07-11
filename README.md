@@ -1,4 +1,4 @@
-# Svelte + Typescript + Parcel
+# Svelte + Typescript + TailwindCSS + Parcel
 
 Minimal boilerplate example of Svelte with Typescript & TailwindCSS using Parcel.
 
